@@ -1,5 +1,0 @@
-{{#user}}
-Name: kaushal Jaysawal
-Skills: HTML, CSS, JS, PHP, Laravel, Livewire, MySQL, MongoDB, React.js, WordPress, Bootstrap.
-Email: kaushalnbt@gmail.com
-{{/user}}
